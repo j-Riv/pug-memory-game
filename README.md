@@ -1,7 +1,7 @@
 # Henry's Memory Game
 A React based memory game.
 
-**Link** [memory-game](https://pug-memory-game.herokuapp.com/)
+**Link** [memory-game](https://j-riv.com/pug-memory-game)
 
 ## Tecnologies Used:
 * React

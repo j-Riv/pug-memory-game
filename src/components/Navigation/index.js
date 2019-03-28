@@ -3,11 +3,12 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
 import './style.css';
+import { NavLink } from 'react-router-dom';
 
 class Navigation extends React.Component {
   render() {
     return (
-      <Navbar bg="white" expand="lg" className={window.location.pathname === "/" ? "nav-home" : "nav-game"}>
+      <Navbar bg="white" expand="lg" className="nav-home">
         <Container>
           <Navbar.Brand href="/">
             <img src="./images/henry-logo-white.png" alt="Henry the Pug" />
@@ -17,18 +18,24 @@ class Navigation extends React.Component {
           </Navbar.Toggle>
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
-              <Nav.Link
-                href="/"
-                className={window.location.pathname === "/" ? "nav-link active" : "nav-link"}
+              <NavLink
+                to="/"
+                activeStyle={{
+                  fontWeight: "bold",
+                  color: "White"
+                }}
               >
                 Home
-            </Nav.Link>
-              <Nav.Link
-                href="/game"
-                className={window.location.pathname === "/game" ? "nav-link active" : "nav-link"}
+              </NavLink>
+              <NavLink
+                to="/game"
+                activeStyle={{
+                  fontWeight: "bold",
+                  color: "White"
+                }}
               >
                 Game
-            </Nav.Link>
+              </NavLink>
             </Nav>
           </Navbar.Collapse>
         </Container>

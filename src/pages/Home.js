@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import Banner from '../components/Banner';
 import Button from 'react-bootstrap/Button';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 class Home extends React.Component {
     render() {
@@ -28,7 +28,7 @@ class Home extends React.Component {
                         </Row>
                         <Row>
                             <Col sm={12} className="text-center">
-                                <Button variant="secondary"><a href="/game" className="text-white">PLAY</a></Button>
+                                <Button variant="secondary"><Link to="/game" className="text-white">Play</Link></Button>
                             </Col>
                         </Row>
                     </Container>
