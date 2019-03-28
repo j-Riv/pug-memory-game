@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pug-memory-game/precache-manifest.f69653681c245f5567794444ef5ccb49.js"
+  "/pug-memory-game/precache-manifest.97c6ca4237d416a4eb7486d13d0b0d45.js"
 );
 
 workbox.clientsClaim();

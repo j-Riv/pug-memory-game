@@ -1,13 +1,13 @@
 {
   "main.css": "/pug-memory-game/static/css/main.790b0fb9.chunk.css",
-  "main.js": "/pug-memory-game/static/js/main.9bbcbbf7.chunk.js",
-  "main.js.map": "/pug-memory-game/static/js/main.9bbcbbf7.chunk.js.map",
+  "main.js": "/pug-memory-game/static/js/main.03b7cad5.chunk.js",
+  "main.js.map": "/pug-memory-game/static/js/main.03b7cad5.chunk.js.map",
   "runtime~main.js": "/pug-memory-game/static/js/runtime~main.591e0896.js",
   "runtime~main.js.map": "/pug-memory-game/static/js/runtime~main.591e0896.js.map",
-  "static/js/2.5adfcfaa.chunk.js": "/pug-memory-game/static/js/2.5adfcfaa.chunk.js",
-  "static/js/2.5adfcfaa.chunk.js.map": "/pug-memory-game/static/js/2.5adfcfaa.chunk.js.map",
+  "static/js/2.3ec0d1b9.chunk.js": "/pug-memory-game/static/js/2.3ec0d1b9.chunk.js",
+  "static/js/2.3ec0d1b9.chunk.js.map": "/pug-memory-game/static/js/2.3ec0d1b9.chunk.js.map",
   "index.html": "/pug-memory-game/index.html",
-  "precache-manifest.f69653681c245f5567794444ef5ccb49.js": "/pug-memory-game/precache-manifest.f69653681c245f5567794444ef5ccb49.js",
+  "precache-manifest.97c6ca4237d416a4eb7486d13d0b0d45.js": "/pug-memory-game/precache-manifest.97c6ca4237d416a4eb7486d13d0b0d45.js",
   "service-worker.js": "/pug-memory-game/service-worker.js",
   "static/css/main.790b0fb9.chunk.css.map": "/pug-memory-game/static/css/main.790b0fb9.chunk.css.map"
 }
