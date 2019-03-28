@@ -1,13 +1,13 @@
 {
   "main.css": "/clicky-memory-game/static/css/main.790b0fb9.chunk.css",
-  "main.js": "/clicky-memory-game/static/js/main.8d79d8be.chunk.js",
-  "main.js.map": "/clicky-memory-game/static/js/main.8d79d8be.chunk.js.map",
+  "main.js": "/clicky-memory-game/static/js/main.9a76a255.chunk.js",
+  "main.js.map": "/clicky-memory-game/static/js/main.9a76a255.chunk.js.map",
   "runtime~main.js": "/clicky-memory-game/static/js/runtime~main.808650b0.js",
   "runtime~main.js.map": "/clicky-memory-game/static/js/runtime~main.808650b0.js.map",
   "static/js/2.9afd49f8.chunk.js": "/clicky-memory-game/static/js/2.9afd49f8.chunk.js",
   "static/js/2.9afd49f8.chunk.js.map": "/clicky-memory-game/static/js/2.9afd49f8.chunk.js.map",
   "index.html": "/clicky-memory-game/index.html",
-  "precache-manifest.bb1b2128b8a03e9c13652ab4e89cb6c6.js": "/clicky-memory-game/precache-manifest.bb1b2128b8a03e9c13652ab4e89cb6c6.js",
+  "precache-manifest.6b70d2b1ee1d514a0beec02a7340eda3.js": "/clicky-memory-game/precache-manifest.6b70d2b1ee1d514a0beec02a7340eda3.js",
   "service-worker.js": "/clicky-memory-game/service-worker.js",
   "static/css/main.790b0fb9.chunk.css.map": "/clicky-memory-game/static/css/main.790b0fb9.chunk.css.map"
 }
