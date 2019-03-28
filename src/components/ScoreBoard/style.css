@@ -1,0 +1,16 @@
+/* Game Navigation Styles */
+
+nav.nav-game {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    box-shadow: 10px 0px 5px #222;
+}
+
+nav.nav-game img {
+    height: 40px;
+    width: auto;
+}
