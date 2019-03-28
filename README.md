@@ -1,5 +1,5 @@
 # Henry's Memory Game
-A React based memory game. Deployed to GitHub pages.
+A React based memory game. Deployed to GitHub Pages using the Hash Router.
 
 **Link** [memory-game](https://j-riv.com/pug-memory-game)
 
