@@ -1,5 +1,5 @@
 # Henry's Memory Game
-A React based memory game.
+A React based memory game. Deployed to GitHub pages.
 
 **Link** [memory-game](https://j-riv.com/pug-memory-game)
 
