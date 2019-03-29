@@ -83,8 +83,8 @@ class Game extends React.Component {
     };
 
     render() {
-        let closeLoss = () => this.setState({ showLoss: false });
-        let closeWin = () => this.setState({ showWin: false });
+        const closeLoss = () => this.setState({ showLoss: false });
+        const closeWin = () => this.setState({ showWin: false });
         return (
             <div>
                 <ScoreBoard>
