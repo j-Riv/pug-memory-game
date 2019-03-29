@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import Game from './pages/Game';
@@ -11,9 +11,12 @@ class App extends Component {
     console.log('public url: ', process.env.PUBLIC_URL);
     return (
         <div>
-        <Route exact path={`/`} component={Home} />
-        <Route path={`/game`} component={Game} />
-          <Footer />
+        <Switch>
+          <Route exact path={`/`} component={Home} />
+          <Route exact path={`/game`} component={Game} />
+          <Route component={Home} />
+        </Switch>
+        <Footer />
         </div>
     );
   }

@@ -24,6 +24,7 @@ class Navigation extends React.Component {
                   fontWeight: "bold",
                   color: "White"
                 }}
+                className="p-2"
               >
                 Home
               </NavLink>
@@ -33,6 +34,7 @@ class Navigation extends React.Component {
                   fontWeight: "bold",
                   color: "White"
                 }}
+                className="p-2"
               >
                 Game
               </NavLink>
