@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/pug-memory-game/static/js/runtime~main.591e0896.js"
   },
   {
-    "revision": "4c3b392a365c34aad083",
-    "url": "/pug-memory-game/static/js/main.c17a0c5d.chunk.js"
+    "revision": "454bd3445656dcda0aa9",
+    "url": "/pug-memory-game/static/js/main.caac52ee.chunk.js"
   },
   {
     "revision": "3328fe03ecc298c586f7",
     "url": "/pug-memory-game/static/js/2.edd0855d.chunk.js"
   },
   {
-    "revision": "4c3b392a365c34aad083",
-    "url": "/pug-memory-game/static/css/main.02e38a43.chunk.css"
+    "revision": "454bd3445656dcda0aa9",
+    "url": "/pug-memory-game/static/css/main.e0c298d8.chunk.css"
   },
   {
-    "revision": "eafd1095b11c470dab62935ad7ffb605",
+    "revision": "e73427661ddc023dd9603d9ed5d38ec8",
     "url": "/pug-memory-game/index.html"
   }
 ];
