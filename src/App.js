@@ -10,14 +10,16 @@ class App extends Component {
   render() {
     console.log('public url: ', process.env.PUBLIC_URL);
     return (
-        <div>
-        <Switch>
-          <Route exact path={`/`} component={Home} />
-          <Route exact path={`/game`} component={Game} />
-          <Route component={Home} />
-        </Switch>
-        <Footer />
+      <div className="site">
+        <div className="site-content">
+          <Switch>
+            <Route exact path={`/`} component={Home} />
+            <Route exact path={`/game`} component={Game} />
+            <Route component={Home} />
+          </Switch>
         </div>
+        <Footer />
+      </div>
     );
   }
 }
