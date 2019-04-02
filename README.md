@@ -3,9 +3,6 @@ A React based memory game. Deployed to GitHub Pages using the Hash Router.
 
 **Link** [memory-game](https://j-riv.com/pug-memory-game)
 
-## Tecnologies Used:
-* React
-
 ## Built With:
 * [React](https://reactjs.org/docs/getting-started.html)
 * [React-Bootstrap](https://react-bootstrap.github.io/)
