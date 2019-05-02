@@ -6,7 +6,6 @@ A React based memory game. Deployed to GitHub Pages using the Hash Router.
 ## Built With:
 * [React](https://reactjs.org/docs/getting-started.html)
 * [React-Bootstrap](https://react-bootstrap.github.io/)
-* [NodeJS](https://nodejs.org/en/docs/)
 
 ## Description
 Click on an image to earn points, but don't click on any more than once!
